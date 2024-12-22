@@ -1,0 +1,22 @@
+{
+  "name": "quanlydetai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodejs mysql bulma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2740nguyenphat/QuanLyDeTai.git"
+  },
+  "author": "trannguyenphat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2740nguyenphat/QuanLyDeTai/issues"
+  },
+  "homepage": "https://github.com/2740nguyenphat/QuanLyDeTai#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
